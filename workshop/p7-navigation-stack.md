@@ -9,7 +9,7 @@ npm install --save react-navigation
 
 ## แยก Page Component อย่างชัดเจน
 
-เราจะเริ่มต้นจาก 3 ไฟล์s
+เราจะเริ่มต้นจาก 3 ไฟล์
 
 ### App.js
 
