@@ -29,7 +29,12 @@ export default class App extends React.Component {
 ## 3. เขียน Import `<List>` และ `<ListItem>` 
 
 ```js
-
+import {
+  ...,
+  List,
+  ListItem,
+  
+} from "native-base";
 ```
 
 ## 4. แสดง List และ ListItem ขึ้นมาในหน้า page
