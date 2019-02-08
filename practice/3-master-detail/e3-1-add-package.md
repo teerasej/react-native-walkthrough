@@ -1,7 +1,7 @@
 
 # การสร้างระบบ Navigation
 
-## 1. กำหนด react-navigation ในไฟล์ package.json
+## 1. เพิ่ม react-navigation ในไฟล์ package.json
 
 ```js
 "dependencies": {

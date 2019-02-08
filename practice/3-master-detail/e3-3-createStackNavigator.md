@@ -1,5 +1,5 @@
 
-## 3. สร้าง Navigator หลัก
+## 3. สร้างระบบ Stack Navigation
 
 
 
