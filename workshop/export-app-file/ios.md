@@ -69,3 +69,12 @@ Will you provide your own Apple Distribution Certificate? (Use arrow keys)
 ```
 Let Expo handle the process
 ```
+
+8. ระบบจะดำเนินการ build กับ Expo service และสามารถเช็คสถานะได้จากลิ้งค์ที่แสดงใน terminal 
+
+```
+[16:10:56] You can monitor the build at
+ https://expo.io/builds/c7188116-6a1f-46ef-853e-512c82dc986e
+```
+
+9. ดาวน์โหลดไฟล์มาใช้งานจากล้ิงค์ เมื่อการ build สิ้นสุด
