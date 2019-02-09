@@ -32,10 +32,6 @@ https://expo.io/
 จากโปรแกรม Terminal, Command Prompt, หรือ Powershell ให้รันคำสั่ง
 
 ```
-create-react-native-app vat7
-```
-
-```
 expo init vat7
 ```
 
@@ -50,6 +46,11 @@ expo init vat7
 
 ```
 cd vat7
+
+// ถ้าลง npm
+npm start
+
+// ถ้าลง yarn
 yarn start
 ```
 
