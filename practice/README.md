@@ -5,8 +5,7 @@
 
 ## [Contact Book #1](/2-list/README.md)
 
-## [Contact Book #2](/3-master-detail/README.md)
+## [Contact Book #2 - Navigation](/3-master-detail/README.md)
 
-## Contact Book with Redux
+## [Contact Book #3 - Web API](/4-web-api/README.md)
 
-## Barcode Scanner
