@@ -1,5 +1,5 @@
 
-## Learning Path
+## Workshop: Learning Path
 
 1. [สร้างโปรเจค](/p1-start-project.md) (ถ้าแบบใช้ react-native-cli [จะเป็นตัวนี้แทน](/p1-1-start-with-react-native.md))
 2. [เพิ่ม native-base UI package](/p2-add-nativebase-ui.md)
