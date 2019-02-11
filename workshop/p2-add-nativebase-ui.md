@@ -2,8 +2,8 @@
 # ติดตั้ง Nativebase
 
 ```
-npm install native-base --save
-npm install @expo/vector-icons --save
+npm install --save native-base 
+npm install --save @expo/vector-icons@8.1.0
 ```
 
 หลังจากติดตั้งแล้ว ทดลองสั่ง 
@@ -86,6 +86,12 @@ export default class App extends React.Component {
     );
   }
 }
+```
+
+## รันคำสั่ง
+
+```
+npm i --save @expo/vector-icons@8.1.0
 ```
 
 ## แก้ไข Overlap Status Bar ใน Android
