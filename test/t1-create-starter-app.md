@@ -1,13 +1,13 @@
 
 ## Test 1: Create Starter App
 
-1. สร้างโปรเจคใหม่ ชื่อ **react-app**
+### 1. สร้างโปรเจคใหม่ ชื่อ **react-app**
 
 ```
 expo init 
 ```
 
-2. เข้าไปในโฟลเดอร์โปรเจค แล้วรันคำสั่งติดตั้ง dependencies package ชื่อ **native-base** กับ **@expo/vector-icons@8.1.0**
+### 2. เข้าไปในโฟลเดอร์โปรเจค แล้วรันคำสั่งติดตั้ง dependencies package ชื่อ **native-base** กับ **@expo/vector-icons@8.1.0**
 
 ```
 cd react-app
@@ -15,7 +15,7 @@ npm install --save native-base
 npm install --save @expo/vector-icons@8.1.0
 ```
 
-3. สร้าง template ของหน้าแอพแรก โดยการ copy โค้ดด้านล่างไปวางแทนที่โค้ดเดิมในไฟล์ `App.js`
+### 3. สร้าง template ของหน้าแอพแรก โดยการ copy โค้ดด้านล่างไปวางแทนที่โค้ดเดิมในไฟล์ `App.js`
 
 ```js
 import React from 'react';
@@ -80,7 +80,7 @@ export default class App extends React.Component {
 ```
 
 
-4. ทดสอบรันแอพพลิเคชั่นในอุปกรณ์พกพา
+### 4. ทดสอบรันแอพพลิเคชั่นในอุปกรณ์พกพา
 
 ```
 expo start
