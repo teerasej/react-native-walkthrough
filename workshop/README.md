@@ -6,3 +6,7 @@
 3. [โครงสร้างทั่วไปของหน้าเพจ](/p3-anatomy.md)
 4. [Event ใน mobile app](/p4-event.md)
 5. [State การจัดการอัพเดตตัว Component](/p5-state.md)
+
+### Practice
+
+1. [สร้างโปรเจคเริ่มต้น](../test/t1-create-starter-app.md)
