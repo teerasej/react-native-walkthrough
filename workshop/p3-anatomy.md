@@ -49,6 +49,11 @@ render() {
 
 Style ใน Component จะอยู่ในรูปแบบของ JavaScript Object เราสามารถกำหนดให้กับ `style` attribute ของ Component ได้โดยตรง
 
+### อ้างอิง
+
+- [React Native's style](https://facebook.github.io/react-native/docs/style)
+- [Layout](https://facebook.github.io/react-native/docs/flexbox)
+
 ```javascript
 return (
       <Container>
