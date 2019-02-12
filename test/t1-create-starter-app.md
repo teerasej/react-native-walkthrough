@@ -9,6 +9,8 @@ expo init
 
 ### 2. เข้าไปในโฟลเดอร์โปรเจค แล้วรันคำสั่งติดตั้ง dependencies package ชื่อ **native-base** กับ **@expo/vector-icons@8.1.0**
 
+> คำสั่งติดตั้ง `npm install` ต้องสั่งรันจากภายในโฟลเดอร์โปรเจคเท่านั้น
+
 ```
 cd react-app
 npm install --save native-base 
