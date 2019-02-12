@@ -4,7 +4,7 @@
 ### 1. สร้างโปรเจคใหม่ ชื่อ **react-app**
 
 ```
-expo init 
+expo init react-app
 ```
 
 ### 2. เข้าไปในโฟลเดอร์โปรเจค แล้วรันคำสั่งติดตั้ง dependencies package ชื่อ **native-base** กับ **@expo/vector-icons@8.1.0**
