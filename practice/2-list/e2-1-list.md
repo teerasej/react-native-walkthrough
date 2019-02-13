@@ -77,3 +77,96 @@ import {
         )}
     />
 ```
+
+## 6. เสร็จเรียบร้อย
+
+```js
+import React from 'react';
+import { StyleSheet, View } from 'react-native';
+import {
+  Container,
+  Header,
+  Title,
+  Content,
+  Footer,
+  FooterTab,
+  Button,
+  Left,
+  Right,
+  Body,
+  Icon,
+  Text,
+  Form,
+  Item,
+  Input,
+  List,
+  ListItem,
+} from "native-base";
+
+export default class App extends React.Component {
+
+  items = [
+    "Nextflow Training",
+    "React Native",
+    "Flutter",
+    "Ionic",
+    "MEAN Stack"
+  ];
+
+  constructor(props){
+    super(props);
+
+    this.state = {
+      loading: true
+    };
+  }
+
+  async componentWillMount() {
+    await Expo.Font.loadAsync({
+      Roboto: require("native-base/Fonts/Roboto.ttf"),
+      Roboto_medium: require("native-base/Fonts/Roboto_medium.ttf"),
+      Ionicons: require("@expo/vector-icons/fonts/Ionicons.ttf"),
+    });
+    this.setState({ loading: false });
+  }
+  
+
+  render() {
+
+    if (this.state.loading) {
+      return <Expo.AppLoading />;
+    }
+
+    return (
+      <Container>
+        <Header>
+          <Body>
+            <Title>Nextflow Contact</Title>
+          </Body>
+        </Header>
+        <Content>
+          <List
+            dataArray={this.items}
+            renderRow={item => (
+              <ListItem>
+                <Text>{item}</Text>
+              </ListItem>
+            )}
+          />
+        </Content>
+      </Container>
+    );
+  }
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
+
+
+```
