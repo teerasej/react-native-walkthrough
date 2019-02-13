@@ -10,12 +10,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  formBox: {
-    padd
-  },
-  content: {
-    
-  },
   resultBox: {
     height: 300,
     backgroundColor: 'yellow',
@@ -45,7 +39,7 @@ render() {
           </Body>
         </Header>
         <Content>
-          <Form style={styles.formBox}>
+          <Form>
             <Item>
               <Input placeholder="Money" keyboardType="numeric"/>
             </Item>
