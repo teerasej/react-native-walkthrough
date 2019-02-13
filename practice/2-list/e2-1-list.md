@@ -3,7 +3,7 @@
 
 ## 1. ติดตั้ง Package dependencies
 
-สร้างโปรเจคใหม่ และทำตาม[ขั้นตอน 1-3 จาก lab นี้](../vat-7/README.md) เพื่อเตรียมโปรเจค
+สร้างโปรเจคใหม่ และทำตาม[ขั้นตอน 1-3 จาก lab นี้](https://teerasej.github.io/react-native-walkthrough/practice/1-vat7/) เพื่อเตรียมโปรเจค
 
 ## 2. สร้าง Properties ไว้เก็บ Array 
 
