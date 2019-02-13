@@ -3,13 +3,7 @@
 
 ## 1. ติดตั้ง Package dependencies
 
-จากไฟล์ **e2.zip** ให้แตกไฟล์ และเปิดโปรเจคขึ้่นมาใน Visual Studio Code
-
-จากนั้นให้รันคำสั่งใน terminal ดังนี้
-
-```powershell
-npm i
-```
+สร้างโปรเจคใหม่ และทำตาม[ขั้นตอน 1-3 จาก lab นี้](../vat-7/README.md) เพื่อเตรียมโปรเจค
 
 ## 2. สร้าง Properties ไว้เก็บ Array 
 
