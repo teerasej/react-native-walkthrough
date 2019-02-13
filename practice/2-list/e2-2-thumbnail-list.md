@@ -1,7 +1,6 @@
 
 # Thumbnail List
 
-> สามารถใช้โปรเจค **e2-2.zip** ได้
 
 ## 1. Import `<Thumbnail>` component
 

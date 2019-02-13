@@ -1,15 +1,9 @@
 
 # เตรียมพร้อม Project
 
-## 1. ติดตั้ง Package dependencies
+## 1. เตรียมโปรเจค
 
-จากไฟล์ **e2.zip** ให้แตกไฟล์ และเปิดโปรเจคขึ้่นมาใน Visual Studio Code
-
-จากนั้นให้รันคำสั่งใน terminal ดังนี้
-
-```powershell
-npm i
-```
+สร้างโปรเจคใหม่ และทำตาม[ขั้นตอน 1-3 จาก lab นี้](https://teerasej.github.io/react-native-walkthrough/practice/1-vat7/) เพื่อเตรียมโปรเจค
 
 ## 2. สร้าง Properties ไว้เก็บ Array 
 
