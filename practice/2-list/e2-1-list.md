@@ -1,7 +1,7 @@
 
 # เตรียมพร้อม Project
 
-## 1. ติดตั้ง Package dependencies
+## 1. เตรียมโปรเจค
 
 สร้างโปรเจคใหม่ และทำตาม[ขั้นตอน 1-3 จาก lab นี้](https://teerasej.github.io/react-native-walkthrough/practice/1-vat7/) เพื่อเตรียมโปรเจค
 
