@@ -9,3 +9,7 @@
 
 ## [Contact Book #3 - Web API](/4-web-api/README.md)
 
+## [API - Barcode Scanner](/5-expo-barcode/README.md)
+
+## [API - Location]()
+
