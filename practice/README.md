@@ -11,5 +11,5 @@
 
 ## [API - Barcode Scanner](/5-expo-barcode/README.md)
 
-## [API - Location]()
+## [API - Location](/6-expo-geolocation/README.md)
 
